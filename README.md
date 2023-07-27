@@ -4,7 +4,7 @@ This project aims to analyze and visualize Foreign Direct Investment (FDI) trend
 
 ## Dataset
 
-The dataset used for this analysis is stored in the file `fdi_data.csv`. It consists of the following columns:
+The dataset used for this analysis is stored in the file `FDI_in_India.csv`. It consists of the following columns:
 
 - **Sector**: The different sectors for which FDI data is recorded.
 - **2000-01 to 2016-17**: FDI values for each sector from 2000-01 to 2016-17.
@@ -13,7 +13,7 @@ The dataset used for this analysis is stored in the file `fdi_data.csv`. It cons
 
 The main files in this project are:
 
-- `fdi_data.csv`: The raw dataset containing FDI values for various sectors.
+- `FDI_in_India.csv`: The raw dataset containing FDI values for various sectors.
 - `data_analysis.ipynb`: Jupyter Notebook containing Python code for data analysis and visualization.
 - `README.md`: This file, providing an overview of the project.
 
